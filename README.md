@@ -1,0 +1,1 @@
+This repository holds the Unity 3D project for an Android AR furniture app. Using Unity's AR Foundation and ARCore, the app lets users place and view 3D furniture models in their real-world surroundings. It's a practical example of creating interactive AR experiences for furniture visualization on Android.
